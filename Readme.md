@@ -8,8 +8,8 @@ This project is a social media API built with Django and Django REST Framework. 
 
 1) First, clone the repository to your local machine:
 
-`git clone https://github.com/Kajal07yadav/SocialNetApp.git
-`
+git clone https://github.com/Kajal07yadav/SocialNetApp.git
+
 
 2) cd `SocialNetApp`
 
@@ -32,11 +32,11 @@ This project is a social media API built with Django and Django REST Framework. 
 
 **Importing the Collection**
 
-`https://www.postman.com/kajal-yadav/workspace/socialauthapi/collection/29592036-6cdf620b-d1e2-4d6b-ad06-50c4a1ace59a?action=share&creator=29592036`
+https://www.postman.com/kajal-yadav/workspace/socialauthapi/collection/29592036-6cdf620b-d1e2-4d6b-ad06-50c4a1ace59a?action=share&creator=29592036
             or
             
 **Download Postman Collection**
-   `https://drive.google.com/drive/home`
+   https://drive.google.com/drive/home
 
 Steps for Import into Postman:
 
