@@ -10,6 +10,7 @@ This project is a social media API built with Django and Django REST Framework. 
 
 `git clone https://github.com/Kajal07yadav/SocialNetApp.git
 `
+
 2) cd `SocialNetApp`
 
 
@@ -33,6 +34,7 @@ This project is a social media API built with Django and Django REST Framework. 
 
 `https://www.postman.com/kajal-yadav/workspace/socialauthapi/collection/29592036-6cdf620b-d1e2-4d6b-ad06-50c4a1ace59a?action=share&creator=29592036`
             or
+            
 **Download Postman Collection**
    `https://drive.google.com/drive/home`
 
@@ -99,7 +101,9 @@ If you encounter any issues or have questions about this project, please feel fr
 You can reach out to me via:
 
 Email: kajalyadav070496@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/kajal-yadav31/
+
 To view my other project on GitHub : https://github.com/Kajal-Yadav31
 
 and here is my resume : https://drive.google.com/file/d/18tRBIhMVoTwAEVlD-j16d6zuoBJc704q/view
