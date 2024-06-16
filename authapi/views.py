@@ -67,7 +67,7 @@ class UserLogoutView(APIView):
 class UserSearchView(generics.ListAPIView):
     serializer_class = UserSearchProfileSerializer
     filter_backends = [filters.SearchFilter]
-    pagination_class = [UserSearchProfilePagination]
+    pagination_class = UserSearchProfilePagination
     search_fields = ['=email', '^name']
 
     def get_queryset(self):
